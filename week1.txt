@@ -1,2 +1,6 @@
 Day la file week1
+<<<<<<< ours
 File thuoc branch week1
+=======
+Thay doi noi dung week1
+>>>>>>> theirs
